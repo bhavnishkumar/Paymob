@@ -1,0 +1,16 @@
+PODS:
+  - AcceptCardSDK (5.2.11)
+
+DEPENDENCIES:
+  - AcceptCardSDK
+
+SPEC REPOS:
+  trunk:
+    - AcceptCardSDK
+
+SPEC CHECKSUMS:
+  AcceptCardSDK: ee7ef130622ccbfd65a23ca9464bdab282461cff
+
+PODFILE CHECKSUM: e7427a1efa41f2c43a15a19a04f1ff6d8d5ccfbc
+
+COCOAPODS: 1.9.1
